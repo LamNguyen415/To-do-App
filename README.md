@@ -1,6 +1,6 @@
-# tutorial2
+# To-do app 
 
-A new Flutter project.
+A simple to-do app using Flutter
 
 ## Getting Started
 
